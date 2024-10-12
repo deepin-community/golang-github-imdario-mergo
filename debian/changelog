@@ -1,3 +1,20 @@
+golang-github-imdario-mergo (0.3.16-2) unstable; urgency=medium
+
+  * Team upload.
+  * Bump Standards-Version to 4.7.0 (no changes)
+  * Symlink to dario.cat/mergo import path
+
+ -- Maytham Alsudany <maytha8thedev@gmail.com>  Tue, 04 Jun 2024 14:57:12 +0800
+
+golang-github-imdario-mergo (0.3.16-1) unstable; urgency=medium
+
+  * Team upload.
+  * New upstream version
+  * Bump depends yaml v3
+  * Standards-Version 4.6.2
+
+ -- Jérémy Lal <kapouer@melix.org>  Mon, 01 Jan 2024 20:02:32 +0100
+
 golang-github-imdario-mergo (0.3.12-1) unstable; urgency=medium
 
   * Team upload.
