@@ -1,3 +1,18 @@
+golang-github-imdario-mergo (1.0.1-2) unstable; urgency=medium
+
+  * Team upload
+  * Upload to unstable
+
+ -- Reinhard Tartler <siretart@tauware.de>  Sat, 09 Nov 2024 09:39:24 -0500
+
+golang-github-imdario-mergo (1.0.1-1) experimental; urgency=medium
+
+  * Team upload
+  * New upstream release
+  * This library mergo moves to a vantity url `dario.cat/mergo`
+
+ -- Reinhard Tartler <siretart@tauware.de>  Sat, 09 Nov 2024 07:50:24 -0500
+
 golang-github-imdario-mergo (0.3.16-2) unstable; urgency=medium
 
   * Team upload.

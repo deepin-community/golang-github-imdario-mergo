@@ -10,10 +10,10 @@ Build-Depends: debhelper-compat (= 13),
                golang-any,
                golang-gopkg-yaml.v3-dev
 Standards-Version: 4.7.0
-Homepage: https://github.com/imdario/mergo
+Homepage: https://github.com/darccio/mergo
 Vcs-Browser: https://salsa.debian.org/go-team/packages/golang-github-imdario-mergo
 Vcs-Git: https://salsa.debian.org/go-team/packages/golang-github-imdario-mergo.git
-XS-Go-Import-Path: github.com/imdario/mergo, dario.cat/mergo
+XS-Go-Import-Path: dario.cat/mergo, github.com/imdario/mergo
 Rules-Requires-Root: no
 Testsuite: autopkgtest-pkg-go
 
